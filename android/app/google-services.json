@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216206372997",
+    "project_id": "dukaan-35f4b",
+    "storage_bucket": "dukaan-35f4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216206372997:android:c17092a4a36ccff0bef9ec",
+        "android_client_info": {
+          "package_name": "com.example.dukaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216206372997-88jhr1o8ekvp45a34t9pidl70g5vg09i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALryrfQEjIPP7rFZMcdKFwOL4aXZh_Hl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216206372997-88jhr1o8ekvp45a34t9pidl70g5vg09i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
